@@ -46,10 +46,10 @@ def student_info():
 while True:
     student_info()
     choice = input("Do you want to continue?(Y/N)").upper()
-    if choice == 'Y':
-        print("Enter Student Details: ")
-    else:
-        #print("Program Terminated")
+    if choice != 'Y':
         break
+    #else:
+        #print("Program Terminated")
+        #break
 
 

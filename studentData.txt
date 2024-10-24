@@ -1,0 +1,20 @@
+Name:Akhil
+ Age:21
+ Course:aws
+ City:pdtr
+ Mobile:1231231231
+Name:Akhil
+ Age:12
+ Course:aws
+ City:kl
+ Mobile:232123122
+Name:arjun
+ Age:12
+ Course:c++
+ City:hyd
+ Mobile:23423423
+Name:abhi
+ Age:10
+ Course:c
+ City:ksdfs
+ Mobile:3233211221
